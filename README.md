@@ -1,4 +1,4 @@
-# Drupal 8 - REST Webservice
+# Drupal 8 - Common Queries Service
 
 ## Requirements :
 
