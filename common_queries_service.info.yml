@@ -1,0 +1,9 @@
+type: module
+name: Common Queries Interface
+description: 'Handle common queries for a project'
+package: Commons
+# Information added by Drupal.org packaging script on 2016-04-19
+version: '8.x-1.0'
+core: '8.x'
+project: 'common_queries_service'
+datestamp: 1461598081

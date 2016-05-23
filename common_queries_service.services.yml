@@ -1,0 +1,4 @@
+services:
+  common_queries_service.queries:
+    class: Drupal\common_queries_service\CommonQueries
+    arguments: ['@entity.query', '@entity_type.manager']
